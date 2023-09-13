@@ -1,0 +1,43 @@
+
+
+h1{color: rgb(143, 39, 52);}
+h1{font-family:fantasy ;}
+
+
+p{
+
+    color: rgb(34, 30, 30);
+}
+body col {color: black;}
+
+head {
+
+    color: rgb(31, 29, 29);
+
+}
+strong{color: aliceblue;}
+
+h2{
+
+    color: rgb(102, 18, 18);font-family: fantasy;
+}
+
+body{
+    
+    background-image: url(NOTEBOOK.jpg)
+
+}
+
+
+body{
+ 
+    background-size: auto;}
+body{
+    background-repeat: repeat-y;
+}
+
+body{
+
+    background-clip: content-box;
+}
+
